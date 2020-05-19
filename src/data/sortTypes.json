@@ -1,0 +1,52 @@
+{
+  "sortTypes": {
+    "authorAZ": {
+      "text": {
+        "rus": "по автору А-Я",
+        "eng": "by author A-Z"
+      },
+      "field": "author",
+      "up": true
+    },
+    "authorZA": {
+      "text": {
+        "rus": "по автору Я-А",
+        "eng": "by author Z-A"
+      },
+      "field": "author",
+      "up": false
+    },
+    "nameAZ": {
+      "text": {
+        "rus": "по названию А-Я",
+        "eng": "by name A-Z"
+      },
+      "field": "name",
+      "up": true
+    },
+    "nameZA": {
+      "text": {
+        "rus": "по названию Я-А",
+        "eng": "by name Z-A"
+      },
+      "field": "name",
+      "up": false
+    },
+    "yearDown": {
+      "text": {
+        "rus": "по году по убыванию",
+        "eng": "by year down"
+      },
+      "field": "year",
+      "up": false
+    },
+    "yearUp": {
+      "text": {
+        "rus": "по году по возрастанию",
+        "eng": "by year up"
+      },
+      "field": "year",
+      "up": true
+    }
+  }
+}

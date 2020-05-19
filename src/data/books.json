@@ -1,0 +1,459 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "author": {
+        "rus": "Толстой Алексей",
+        "eng": "Tolstoy Alexey"
+      },
+      "name": {
+        "rus": "Петр Первый",
+        "eng": "Peter the Great"
+      },
+      "year": "1938",
+      "place": "onIkea",
+      "image": "petr1.jpg",
+      "isNew": false
+    },
+    {
+      "id": 2,
+      "author": {
+        "rus": "Фурманов Дм.",
+        "eng": "Furmanov Dm"
+      },
+      "name": {
+        "rus": "Чапаев",
+        "eng": "Chapaev"
+      },
+      "year": "1948",
+      "place": "onIkea",
+      "image": "chapaev.jpg",
+      "isNew": false
+    },
+    {
+      "id": 3,
+      "author": {
+        "rus": "Маяковский В.В.",
+        "eng": "Mayakovsky V.V."
+      },
+      "name": {
+        "rus": "Стихотворения",
+        "eng": "Poems"
+      },
+      "year": "1952",
+      "place": "onIkea",
+      "image": "mayakovskiy.jpg",
+      "isNew": false
+    },
+    {
+      "id": 4,
+      "author": {
+        "rus": "Павлюченко Э.А.",
+        "eng": "Pavlyuchenko E.A."
+      },
+      "name": {
+        "rus": "В добровольном изгнании",
+        "eng": "In voluntary exile"
+      },
+      "year": "1946",
+      "place": "onIkea",
+      "image": "vizgnanii.jpg",
+      "isNew": false
+    },
+    {
+      "id": 5,
+      "author": {
+        "rus": "Вигрилев А.Н.",
+        "eng": "Vigrilev A.N."
+      },
+      "name": {
+        "rus": "История отечественной почты",
+        "eng": "History of domestic mail"
+      },
+      "year": "1965",
+      "place": "onIkea",
+      "image": "pochta.jpg",
+      "isNew": false
+    },
+
+    {
+      "id": 6,
+      "author": {
+        "rus": "Кэрролл Льюис",
+        "eng": "Carroll Lewis"
+      },
+      "name": {
+        "rus": "Алиса в Стране чудес",
+        "eng": "Alice in Wonderland"
+      },
+      "year": "1976",
+      "place": "trellis",
+      "image": "alisavchudes.jpg",
+      "isNew": false
+    },
+    {
+      "id": 7,
+      "author": {
+        "rus": "Толстой Л.",
+        "eng": "Tolstoy L."
+      },
+      "name": {
+        "rus": "Рассказы детям",
+        "eng": "Stories for children"
+      },
+      "year": "1953",
+      "place": "trellis",
+      "image": "tolstoydetyam.jpg",
+      "isNew": false
+    },
+    {
+      "id": 8,
+      "author": {
+        "rus": "Аким Яков",
+        "eng": "Akim Jacob"
+      },
+      "name": {
+        "rus": "Учитель Так-так и его разноцветная школа",
+        "eng": "Teacher Tak-tak and his colorful school"
+      },
+      "year": "2009",
+      "place": "trellis",
+      "image": "taktak.jpg",
+      "isNew": false
+    },
+    {
+      "id": 9,
+      "author": {
+        "rus": "Пушкин А.С.",
+        "eng": "Pushkin A.S."
+      },
+      "name": {
+        "rus": "Сказка о рыбаке и рыбке",
+        "eng": "The Tale of the Fisherman and the Fish"
+      },
+      "year": "1946",
+      "place": "trellis",
+      "image": "zolotayaribka.jpg",
+      "isNew": false
+    },
+    {
+      "id": 10,
+      "author": {
+        "rus": "Ершов Пётр",
+        "eng": "Ershov Peter"
+      },
+      "name": {
+        "rus": "Конёк-Горбунёк",
+        "eng": "The Little Humpbacked Horse"
+      },
+      "year": "1978",
+      "place": "trellis",
+      "image": "konekgorbunek.jpg",
+      "isNew": false
+    },
+
+    {
+      "id": 11,
+      "author": {
+        "rus": "Гиппенрейтер Ю.Б.",
+        "eng": "Hippenreiter Yu.B."
+      },
+      "name": {
+        "rus": "Общаться с ребёнком. Как?",
+        "eng": "Chat with a child. How?"
+      },
+      "year": "1994",
+      "place": "cabinet2Down",
+      "image": "obshsrebenkom.jpg",
+      "isNew": false
+    },
+    {
+      "id": 12,
+      "author": {
+        "rus": "Ходченков Е., Гаврилов М.",
+        "eng": "Khodchenkov E., Gavrilov M."
+      },
+      "name": {
+        "rus": "Твой первый бизнес",
+        "eng": "Your first business"
+      },
+      "year": "2012",
+      "place": "cabinet2Down",
+      "image": "tvoystart.jpg",
+      "isNew": false
+    },
+    {
+      "id": 13,
+      "author": {
+        "rus": "Фабер Адель, Мазлиш Элейн",
+        "eng": "Faber Adele, Mazlish Elaine"
+      },
+      "name": {
+        "rus": "Как говорить, чтобы подростки слушали.",
+        "eng": "How to say that teenagers listen."
+      },
+      "year": "1989",
+      "place": "cabinet2Down",
+      "image": "podrostky.jpg",
+      "isNew": false
+    },
+    {
+      "id": 14,
+      "author": {
+        "rus": "Барри Дж.М.",
+        "eng": "Barrie J.M."
+      },
+      "name": {
+        "rus": "Питер Пен",
+        "eng": "Peter Pan"
+      },
+      "year": "1999",
+      "place": "cabinet2Down",
+      "image": "piterpen.jpg",
+      "isNew": false
+    },
+    {
+      "id": 15,
+      "author": {
+        "rus": "Магнитов С.Н.",
+        "eng": "Magnitov S.N."
+      },
+      "name": {
+        "rus": "Лоббизм",
+        "eng": "Lobbying"
+      },
+      "year": "2016",
+      "place": "cabinet2Down",
+      "image": "lobbism.jpg",
+      "isNew": false
+    },
+
+    {
+      "id": 16,
+      "author": {
+        "rus": "Сенкевич Генрик",
+        "eng": "Senkevich Henryk"
+      },
+      "name": {
+        "rus": "Куда идёшь",
+        "eng": "Where are you going"
+      },
+      "year": "1997",
+      "place": "cabinetLeftUp",
+      "image": "kudaidesh.jpg",
+      "isNew": false
+    },
+    {
+      "id": 17,
+      "author": {
+        "rus": "Чернышевский Н.Г.",
+        "eng": "Chernyshevsky N.G."
+      },
+      "name": {
+        "rus": "Что делать?",
+        "eng": "What to do?"
+      },
+      "year": "1972",
+      "place": "cabinetLeftUp",
+      "image": "chtodelat.jpg",
+      "isNew": false
+    },
+    {
+      "id": 18,
+      "author": {
+        "rus": "Серафимович А.С.",
+        "eng": "Serafimovich A.S."
+      },
+      "name": {
+        "rus": "Железный поток",
+        "eng": "Iron stream"
+      },
+      "year": "1974",
+      "place": "cabinetLeftUp",
+      "image": "jelezniypotok.jpg",
+      "isNew": false
+    },
+    {
+      "id": 19,
+      "author": {
+        "rus": "Полевой Борис",
+        "eng": "Polevoy Boris"
+      },
+      "name": {
+        "rus": "Золото",
+        "eng": "Gold"
+      },
+      "year": "1954",
+      "place": "cabinetLeftUp",
+      "image": "zoloto.jpg",
+      "isNew": false
+    },
+    {
+      "id": 20,
+      "author": {
+        "rus": "Доде Альфонс",
+        "eng": "Dode Alphonse"
+      },
+      "name": {
+        "rus": "Набоб",
+        "eng": "Nabob"
+      },
+      "year": "1967",
+      "place": "cabinetLeftUp",
+      "image": "dode.jpg",
+      "isNew": false
+    },
+
+    {
+      "id": 21,
+      "author": {
+        "rus": "Волков А.",
+        "eng": "Volkov A."
+      },
+      "name": {
+        "rus": "Волшебник Изумрудного города",
+        "eng": "The Wizard of Oz"
+      },
+      "year": "1985",
+      "place": "cabinet1Down",
+      "image": "izumrudniy.jpg",
+      "isNew": false
+    },
+    {
+      "id": 22,
+      "author": {
+        "rus": "Чехов А.П.",
+        "eng": "Chekhov A.P."
+      },
+      "name": {
+        "rus": "Повести и рассказы",
+        "eng": "Tales and Stories"
+      },
+      "year": "1972",
+      "place": "cabinet1Down",
+      "image": "chehovrassk.jpg",
+      "isNew": false
+    },
+    {
+      "id": 23,
+      "author": {
+        "rus": "Виноградов Анатолий",
+        "eng": "Vinogradov Anatoly"
+      },
+      "name": {
+        "rus": "Три цвета времени",
+        "eng": "Three colors of time"
+      },
+      "year": "1958",
+      "place": "cabinet1Down",
+      "image": "tricvetavremeni.jpg",
+      "isNew": false
+    },
+    {
+      "id": 24,
+      "author": {
+        "rus": "Ремарк Эрих Мария",
+        "eng": "Remark Erich Maria"
+      },
+      "name": {
+        "rus": "Жизнь взаймы",
+        "eng": "Life loan"
+      },
+      "year": "1982",
+      "place": "cabinet1Down",
+      "image": "jiznvzaymi.jpg",
+      "isNew": false
+    },
+    {
+      "id": 25,
+      "author": {
+        "rus": "Нечаев Ю.",
+        "eng": "Nechaev Yu."
+      },
+      "name": {
+        "rus": "Жанна д'Арк",
+        "eng": "Joan of Arc"
+      },
+      "year": "1996",
+      "place": "cabinet1Down",
+      "image": "jannadark.jpg",
+      "isNew": false
+    },
+
+    {
+      "id": 26,
+      "author": {
+        "rus": "Кристи Агата",
+        "eng": "Christie Agatha"
+      },
+      "name": {
+        "rus": "Избранное",
+        "eng": "Selected stories"
+      },
+      "year": "1987",
+      "place": "cabinetRightUp",
+      "image": "agatachristi.jpg",
+      "isNew": false
+    },
+    {
+      "id": 27,
+      "author": {
+        "rus": "Мелвиль Герман",
+        "eng": "Melville Herman"
+      },
+      "name": {
+        "rus": "Моби Дик",
+        "eng": "Moby Dick"
+      },
+      "year": "1978",
+      "place": "cabinetRightUp",
+      "image": "mobidick.jpg",
+      "isNew": false
+    },
+    {
+      "id": 28,
+      "author": {
+        "rus": "Шолохов М.А.",
+        "eng": "Sholokhov M.A."
+      },
+      "name": {
+        "rus": "Тихий дон",
+        "eng": "Quiet don"
+      },
+      "year": "1955",
+      "place": "cabinetRightUp",
+      "image": "tihiydon.jpg",
+      "isNew": false
+    },
+    {
+      "id": 29,
+      "author": {
+        "rus": "Андерсон Ганс Христиан",
+        "eng": "Anderson Hans Christian"
+      },
+      "name": {
+        "rus": "Сказки",
+        "eng": "Fairy tales"
+      },
+      "year": "1998",
+      "place": "cabinetRightUp",
+      "image": "andersen.jpg",
+      "isNew": false
+    },
+    {
+      "id": 30,
+      "author": {
+        "rus": "Успенский Э.",
+        "eng": "Uspensky E."
+      },
+      "name": {
+        "rus": "Лекции профессора Чайникова",
+        "eng": "Lectures by Professor Chaynikov"
+      },
+      "year": "1993",
+      "place": "cabinetRightUp",
+      "image": "chaynikov.jpg",
+      "isNew": false
+    }
+  ]
+}

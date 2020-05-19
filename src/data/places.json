@@ -1,0 +1,50 @@
+{
+  "onIkea": {
+    "id": 1,
+    "name": {
+      "rus": "на шкафу Икея",
+      "eng": "on the wardrobe Ikea"
+    },
+    "code": "onIkea"
+  },
+  "trellis": {
+    "id": 2,
+    "name": {
+      "rus": "трельяж",
+      "eng": "trellis"
+    },
+    "code": "trellis"
+  },
+  "cabinet1Down": {
+    "id": 3,
+    "name": {
+      "rus": "шкаф у двери нижняя",
+      "eng": "the cabinet near the door down"
+    },
+    "code": "cabinet1Down"
+  },
+  "cabinet2Down": {
+    "id": 4,
+    "name": {
+      "rus": "шкаф у двери 2 снизу",
+      "eng": "the cabinet near the door 2 down"
+    },
+    "code": "cabinet2Down"
+  },
+  "cabinetLeftUp": {
+    "id": 5,
+    "name": {
+      "rus": "шкаф у двери левая верхняя",
+      "eng": "the cabinet near the door left up"
+    },
+    "code": "cabinetLeftUp"
+  },
+  "cabinetRightUp": {
+    "id": 6,
+    "name": {
+      "rus": "шкаф у двери правая верхняя",
+      "eng": "the cabinet near the door right up"
+    },
+    "code": "cabinetRightUp"
+  }
+}

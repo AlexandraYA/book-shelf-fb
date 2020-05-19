@@ -1,0 +1,11 @@
+.settingsBlock {
+  transition: height 0.3s ease;
+}
+
+.open {
+  height: 150px;
+}
+
+.close {
+  height: 0;
+}
